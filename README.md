@@ -1,4 +1,4 @@
-# Booking Application
+<h1 align="center">Booking Application</h1>
 
 ##  Tech Stack
 
