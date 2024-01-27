@@ -56,15 +56,14 @@ npm run dev
 
 ```sh
 # backend
+
 MONGO_URL = "Your MongoDB URL" 
 JWT_SECRET_KEY = "Your key"
 FRONTEND_URL = "Your localhost url"
 CLOUDINARY_CLOUD_NAME = "Your key"
 CLOUDINARY_API_KEY = "Your key"
 CLOUDINARY_API_SECRET = "Your key"
-```
 
-```sh
 # frontend
 VITE_API_BASE_URL = http://localhost:7000
 ```
