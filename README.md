@@ -1,4 +1,4 @@
-<h1 align="center">Booking Application</h1>
+<h1 align="center">HolidaysBooking.com</h1>
 
 ##  Tech Stack
 
