@@ -54,7 +54,7 @@ router.post(
       const imageFiles = req.files as Express.Multer.File[];
       const newHotel: HotelType = req.body;
 
-      console.log(newHotel);
+      //console.log(newHotel);
       const imageUrls = await uploadImages(imageFiles);
 
       newHotel.imageUrls = imageUrls;
