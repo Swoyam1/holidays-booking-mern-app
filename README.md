@@ -65,6 +65,7 @@ CLOUDINARY_API_KEY = "Your key"
 CLOUDINARY_API_SECRET = "Your key"
 
 # frontend
+
 VITE_API_BASE_URL = http://localhost:7000
 ```
 
